@@ -1,0 +1,29 @@
+2026-09-17 21:42:57 [error]: Error: Route not found: /api/nonexistent
+    at notFound (C:\Users\acer\OneDrive\Desktop\ERP\backend\src\middleware\errorHandler.js:59:17)
+    at Layer.handle [as handle_request] (C:\Users\acer\OneDrive\Desktop\ERP\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\acer\OneDrive\Desktop\ERP\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\acer\OneDrive\Desktop\ERP\backend\node_modules\express\lib\router\index.js:286:9
+    at router.process_params (C:\Users\acer\OneDrive\Desktop\ERP\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\acer\OneDrive\Desktop\ERP\backend\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\acer\OneDrive\Desktop\ERP\backend\node_modules\express-rate-limit\dist\index.cjs:807:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async C:\Users\acer\OneDrive\Desktop\ERP\backend\node_modules\express-rate-limit\dist\index.cjs:691:5
+2026-09-17 22:52:54 [error]: Error: Route not found: /favicon.ico
+    at notFound (C:\Users\acer\OneDrive\Desktop\ERP\backend\src\middleware\errorHandler.js:59:17)
+    at Layer.handle [as handle_request] (C:\Users\acer\OneDrive\Desktop\ERP\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\acer\OneDrive\Desktop\ERP\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\acer\OneDrive\Desktop\ERP\backend\node_modules\express\lib\router\index.js:286:9
+    at router.process_params (C:\Users\acer\OneDrive\Desktop\ERP\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\acer\OneDrive\Desktop\ERP\backend\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\acer\OneDrive\Desktop\ERP\backend\node_modules\morgan\index.js:177:5)
+    at Layer.handle [as handle_request] (C:\Users\acer\OneDrive\Desktop\ERP\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\acer\OneDrive\Desktop\ERP\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\acer\OneDrive\Desktop\ERP\backend\node_modules\express\lib\router\index.js:286:9
+2026-10-03 21:37:38 [error]: Uncaught Exception: listen EADDRINUSE: address already in use :::5000
+2026-10-03 21:55:06 [error]: Auth middleware error: getaddrinfo ENOTFOUND ac-ojgsj64-shard-00-00.jzhn2lk.mongodb.net
+2026-10-03 21:55:09 [error]: Auth middleware error: getaddrinfo ENOTFOUND ac-ojgsj64-shard-00-00.jzhn2lk.mongodb.net
+2026-10-03 21:55:09 [error]: Auth middleware error: getaddrinfo ENOTFOUND ac-ojgsj64-shard-00-00.jzhn2lk.mongodb.net
+2026-10-03 21:55:24 [error]: Auth middleware error: getaddrinfo ENOTFOUND ac-ojgsj64-shard-00-00.jzhn2lk.mongodb.net
+2026-10-03 21:55:34 [error]: Auth middleware error: getaddrinfo ENOTFOUND ac-ojgsj64-shard-00-00.jzhn2lk.mongodb.net
+2026-10-03 23:33:23 [error]: Uncaught Exception: listen EADDRINUSE: address already in use :::5000
+2026-10-03 23:43:21 [error]: Uncaught Exception: listen EADDRINUSE: address already in use :::5000
