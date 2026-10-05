@@ -515,3 +515,9 @@
 2026-10-05 15:21:35 [info]: ::1 - - [05/Oct/2026:09:51:35 +0000] "GET /api/admin/departments?limit=100 HTTP/1.1" 304 - "http://localhost:3000/admin/faculty" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
 2026-10-05 15:21:35 [info]: ::1 - - [05/Oct/2026:09:51:35 +0000] "GET /api/admin/faculty?page=1&limit=15 HTTP/1.1" 304 - "http://localhost:3000/admin/faculty" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
 2026-10-05 15:22:34 [info]: ::1 - - [05/Oct/2026:09:52:34 +0000] "GET /api/admin/dashboard HTTP/1.1" 304 - "http://localhost:3000/admin/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+2026-10-05 15:36:06 [info]: MongoDB connected: ac-ojgsj64-shard-00-01.jzhn2lk.mongodb.net
+2026-10-05 15:36:21 [info]: MongoDB connected: ac-ojgsj64-shard-00-00.jzhn2lk.mongodb.net
+2026-10-05 15:36:21 [info]: Server running in development mode on port 5000
+2026-10-05 15:36:21 [info]: API available at http://localhost:5000/api
+2026-10-05 15:36:21 [info]: Health check:   http://localhost:5000/health
+2026-10-05 15:36:21 [info]: MongoDB connected: ac-ojgsj64-shard-00-01.jzhn2lk.mongodb.net
