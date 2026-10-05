@@ -521,3 +521,8 @@
 2026-10-05 15:36:21 [info]: API available at http://localhost:5000/api
 2026-10-05 15:36:21 [info]: Health check:   http://localhost:5000/health
 2026-10-05 15:36:21 [info]: MongoDB connected: ac-ojgsj64-shard-00-01.jzhn2lk.mongodb.net
+2026-10-05 15:39:31 [info]: MongoDB connected: ac-ojgsj64-shard-00-02.jzhn2lk.mongodb.net
+2026-10-05 15:39:31 [info]: Server running in development mode on port 5000
+2026-10-05 15:39:31 [info]: API available at http://localhost:5000/api
+2026-10-05 15:39:31 [info]: Health check:   http://localhost:5000/health
+2026-10-05 15:39:33 [info]: MongoDB connected: ac-ojgsj64-shard-00-00.jzhn2lk.mongodb.net
